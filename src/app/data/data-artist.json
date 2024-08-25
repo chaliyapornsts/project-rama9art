@@ -1,0 +1,655 @@
+[
+  {
+    "id": 1,
+    "image_url": "/images/Male-1.jpg",
+    "name_th": "กรวิชญ์ ภูมิจิตต์",
+    "name_en": "Kornwich Poomchit",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Kornwich-Poomchit",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image_url": "/images/Female-1.jpg",
+    "name_th": "กัญญารัตน์ วรรณศรี",
+    "name_en": "Kanyarat Wanasri",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Kanyarat-Wanasri",
+    "born_year": "2001 (พ.ศ.2544)",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "ภาคิน วิทิตศานต์",
+    "name_en": "Pakin Wititsan",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Pakin-Wititsan",
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "พิชญาภา ศิริเกษม",
+    "name_en": "Pichayapa Sirikasem",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Pichayapa-Sirikasem",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image_url": "/images/Female-5.jpg",
+    "name_th": "อรพรรณ สุทธิรักษ์",
+    "name_en": "Orapan Suttirak",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Orapan-Suttirak",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image_url": "/images/Female-6.jpg",
+    "name_th": "ชาลิยาภรณ์ สุทธิศักดิ์",
+    "name_en": "Chaliyaporn Suttisak",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Chaliyaporn-Suttisak",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "ธีรภัทร พงษ์กมล",
+    "name_en": "Teerapat Pongkamol",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Teerapat-Pongkamol",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image_url": "/images/Male-2.jpg",
+    "name_th": "ศิริชัย จิระภาค",
+    "name_en": "Sirichai Jirapak",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Sirichai-Jirapak",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image_url": "/images/Female-2.jpg",
+    "name_th": "สรัลชนา สุขสมบัติ",
+    "name_en": "Saranchana Suksombat",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Saranchana-Suksombat",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "ภูมิพัฒน์ วัฒนาพันธ์",
+    "name_en": "Poopat Wattanapan",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Poopat-Wattanapan",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image_url": "/images/Male-3.jpg",
+    "name_th": "ชยพล ศิริวงศ์",
+    "name_en": "Chayapol Siriwong",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Chayapol-Siriwong",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "ปรียานันท์ เกษมศิริ",
+    "name_en": "Priyanan Kasemsiri",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Priyanan-Kasemsiri",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image_url": "/images/Female-4.jpg",
+    "name_th": "วนิดา วิริยะวงศ์",
+    "name_en": "Wanida Wiriyawong",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Wanida-Wiriyawong",
+    "born_year": "2001 (พ.ศ.2544)",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "ธนวัฒน์ รัตนกุล",
+    "name_en": "Thanawat Ratanakul",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Thanawat-Ratanakul",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image_url": "/images/Male-4.jpg",
+    "name_th": "นครินทร์ ศรีสวัสดิ์",
+    "name_en": "Nakarin Srisawat",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Nakarin-Srisawat",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "นัทธมน จิตรภักดี",
+    "name_en": "Natthamon Jitpakdee",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Natthamon-Jitpakdee",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "telephone": "094-8655429",
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "ภัทราพร รัตนาวดี",
+    "name_en": "Patraporn Rattanawadee",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Patraporn-Rattanawadee",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "telephone": "094-8655429",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image_url": "/images/Female-3.jpg",
+    "name_th": "พิชชา บุญทรัพย์",
+    "name_en": "Picha Boonsup",
+    "major": "National Artist: ศิลปินแห่งชาติ",
+    "slug": "Picha-Boonsup",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "Email": "chaliyaporn.sts@gmail.com",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ],
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "สุรชัย วรเดช",
+    "name_en": "Surachai Woradech",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Surachai-Woradech",
+    "born_day": 7,
+    "born_month": "พฤษภาคม | May",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "telephone": "094-8655429",
+    "education": [
+      {
+        "year": "2019 (พ.ศ.2562)",
+        "year_end": "2023 (พ.ศ.2566)",
+        "education_en": "King Mongkut's Institute of Technology Ladkrabang",
+        "education_th": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง"
+      },
+      {
+        "year": "2023 (พ.ศ.2566)",
+        "year_end": "2024 (พ.ศ.2567)",
+        "education_en": "Generation Thailand and KX Office, King Mongkut's University of Technology Thonburi",
+        "education_th": "เจเนเรชั่น ประเทศไทย และ สำนักเคเอกซ์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี (มจธ.)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image_url": "https://st4.depositphotos.com/11634452/21365/v/450/depositphotos_213659488-stock-illustration-picture-profile-icon-human-people.jpg",
+    "name_th": "วิศรุต ภูริวัฒน์",
+    "name_en": "Witsarut Puriwat",
+    "major": "Beloved: ศิลปินอันเป็นที่รัก",
+    "slug": "Witsarut-Puriwat",
+    "born_year": "2001 (พ.ศ.2544)",
+    "birth_place": "อ่างทอง | Ang Thong",
+    "address": "เนตรประสม แมนชั่น 57/9 ถนน ลาดพร้าว ซอย ลาดพร้าว 18 แยก 2 แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+    "telephone": "094-8655429",
+    "group_exhibitions": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "exhibitions_en": "Book launch event 'SUCHAO SISGANES' and One Baht Art Auction",
+        "exhibitions_th": "งานเปิดตัวหนังสือ 'สุเชาว์ ศิษย์เณศ' และ การประมูลศิลปะ 1 บาทเดียว"
+      }
+    ],
+    "awards": [
+      {
+        "year": "2024 (พ.ศ.2567)",
+        "awards_en": "Successfully completed the requirements for graduation in Junior Software Developer Program (Cohort 6)",
+        "awards_th": "สำเร็จการศึกษาในโครงการนักพัฒนาซอฟต์แวร์รุ่นเยาว์ (รุ่นที่ 6)"
+      }
+    ]
+  }
+]

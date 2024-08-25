@@ -1,0 +1,10 @@
+.artist-img:hover {
+    border-radius: 0%;
+    transform: scale(1.05);
+    transition: border-radius 1s ease, transform 1s ease;
+  }
+
+  .artist-img {
+    border-radius: 50%;
+    transition: border-radius 1s ease, transform 1s ease;
+  }

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Collections",
+    "href": "/collections"
+  },
+  {
+    "title": "Artists",
+    "href": "/artists"
+  },
+  {
+    "title": "Libraries",
+    "href": "/libraries"
+  },
+  {
+    "title": "Exhibitions",
+    "href": "/exhibitions"
+  },
+  {
+    "title": "Art Comprtitions",
+    "href": "/art-comprtitions"
+  },
+  {
+    "title": "Museum",
+    "href": "/museum"
+  },
+  {
+    "title": "Gallery",
+    "href": "/gallery"
+  },
+  {
+    "title": "About",
+    "href": "/about"
+  }
+]
