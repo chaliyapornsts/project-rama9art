@@ -3,13 +3,13 @@ import { useState } from "react";
 import Link from "next/link";
 import { Menu, X, Search } from 'lucide-react';
 import { Input } from "@/components/ui/input";
-
 import siteMenuItems from "@/app/data/site-menu-items.json";
 
 export default function SiteHeader() {
   const [search, setSearch] = useState("");
   const [isOpenMenu, setCloseMenu] = useState(false);
   const [activeMenu, setActiveMenu] = useState("");
+  const [activeLink, setActiveLink] = useState("/");
 
   const openMenu = () => {
     setCloseMenu(!isOpenMenu);
@@ -37,9 +37,10 @@ export default function SiteHeader() {
                     <Link
                       key={menuItem.title}
                       href={menuItem.href}
-                      className={`py-2 text-lg ${activeMenu === menuItem.title ? "text-orange-500" : "hover:text-orange-500"}`}
+                      className={`py-2 text-lg ${activeLink === menuItem.href ? "text-orange-500" : "hover:text-orange-500"}`}
                       onClick={() => {
                         setActiveMenu(menuItem.title);
+                        setActiveLink(menuItem.href);
                         closeMenu();
                       }}
                     >
@@ -56,20 +57,28 @@ export default function SiteHeader() {
               )}
             </div>
             <div className="flex h-full pr-3 font-bold">
-              <h1 className="font-semibold self-center">
-                <Link href="/">Rama IX Art Foundation</Link>
+              <h1 className={`font-semibold self-center ${activeLink === '/' ? 'text-black' : ''}`}>
+                <Link
+                  href="/"
+                  onClick={() => setActiveLink('/')}
+                >
+                  Rama IX Art Foundation
+                </Link>
               </h1>
             </div>
             <nav className="hidden xl:flex">
               {siteMenuItems.map((menuItem) => (
                 <div
                   key={menuItem.title}
-                  className={`flex h-full mx-3 ${activeMenu === menuItem.title ? "text-orange-500" : "hover:text-orange-500"}`}
+                  className={`flex h-full mx-3 ${activeLink === menuItem.href ? "text-orange-500" : "hover:text-orange-500"}`}
                 >
                   <Link
                     href={menuItem.href}
                     className="self-center"
-                    onClick={() => setActiveMenu(menuItem.title)}
+                    onClick={() => {
+                      setActiveMenu(menuItem.title);
+                      setActiveLink(menuItem.href);
+                    }}
                   >
                     {menuItem.title}
                   </Link>

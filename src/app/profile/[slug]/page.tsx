@@ -1,13 +1,12 @@
 "use client";
 import React, { useState } from 'react';
 import data from '@/app/data/data-artist.json';
-import Name from '@/components/artist/ArtistItem';
-import Documents from '@/components/artist/Document';
-import Other from '@/components/artist/Other';
-import Library from '@/components/artist/Library';
+import Name from '@/app/profile/[slug]/Name';
+import Documents from '@/app/profile/[slug]/Document';
+import Other from '@/app/profile/[slug]/Other';
+import Library from '@/app/profile/[slug]/Library';
 import Image from 'next/image';
-import { Artist } from '@/components/types/Artist'
-
+import { Artist } from '@/components/types/Artist';
 interface ProfileProps {
     params: {
         slug: string;

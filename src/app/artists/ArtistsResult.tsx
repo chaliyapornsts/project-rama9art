@@ -4,7 +4,6 @@ import "./ArtistsResult.css";
 import { Button } from "@/components/ui/button";
 import data from "@/app/data/data-artist.json";
 import { SlidersHorizontal, X } from "lucide-react";
-import Link from "next/link";
 import Image from "next/image";
 import {
   Select,
@@ -22,6 +21,7 @@ import {
 } from "@/components/ui/carousel"
 import { type CarouselApi } from "@/components/ui/carousel"
 import ArtistSearchForm from "./ArtistSearchForm";
+import ArtistItem from "@/components/artist/ArtistItem";
 
 const AZAsciis = Array.from({ length: 26 }, (_, index) => index + 65);
 
@@ -71,6 +71,7 @@ export default function ArtistsResult() {
     }
 
     acc[firstCharEn].push(search);
+
     return acc;
   }, {});
 
@@ -139,11 +140,11 @@ export default function ArtistsResult() {
           <div className="hidden lg:flex justify-center pt-5 space-x-4">
             <Select onValueChange={handleMainCategoryChange} value={select}>
               <SelectTrigger className="rounded-full bg-gray-300">
-                <SelectValue placeholder="Thai Artists" />
+                <SelectValue placeholder="All Artists" />
               </SelectTrigger>
               <SelectContent className="rounded-xl">
                 <SelectGroup>
-                  <SelectItem value="all">Thai Artists</SelectItem>
+                  <SelectItem value="all">All Artists</SelectItem>
                   <SelectItem value="National Artist: ศิลปินแห่งชาติ">National Artist</SelectItem>
                   <SelectItem value="Beloved: ศิลปินอันเป็นที่รัก">Beloved</SelectItem>
                 </SelectGroup>
@@ -181,11 +182,11 @@ export default function ArtistsResult() {
                     <div className="px-5 py-3">
                       <Select onValueChange={handleMainCategoryChange} value={select}>
                         <SelectTrigger className="rounded-full bg-gray-300 w-full p-5">
-                          <SelectValue placeholder="Thai Artists" />
+                          <SelectValue placeholder="All Artists" />
                         </SelectTrigger>
                         <SelectContent className="rounded-xl">
                           <SelectGroup>
-                            <SelectItem value="all">Thai Artists</SelectItem>
+                            <SelectItem value="all">All Artists</SelectItem>
                             <SelectItem value="National Artist: ศิลปินแห่งชาติ">National Artist</SelectItem>
                             <SelectItem value="Beloved: ศิลปินอันเป็นที่รัก">Beloved</SelectItem>
                           </SelectGroup>
@@ -249,49 +250,39 @@ export default function ArtistsResult() {
           </div>
         </div>
       </div>
-      <div>
+      <div className="h-screen">
         <p className="pt-5 pl-5 font-bold">
           {filteredData.length > 0
-            ? `${filteredData.length} artists of ${data.length}`
-            : "ยังไม่มีข้อมูลแสดงในส่วนนี้"}
+            ? ""
+            : "No artist data available for this section."}
         </p>
-        {Object.keys(groupedData).map(firstCharEn => (
-          <div key={firstCharEn} className="w-full">
-            <div className="pt-5 pl-5">
-              <div className="flex items-end space-x-2">
-                <h3 className="text-3xl">{firstCharEn}</h3>
-                {selectedArtist !== "" && (
-                  <div className="flex space-x-2">
-                    <span>|</span>
-                    <p className="text-sm">
-                      {groupedData[firstCharEn].length} artists of {data.length}
-                    </p>
-                  </div>
-                )}
-              </div>
+        {selectedArtist === "" ? (
+          <div>
+            <div className="pt-5 pl-5 font-bold">
+              {filteredData.length} artists of {filteredData.length}
             </div>
-            <div className="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-10 m-5 gap-4">
-              {groupedData[firstCharEn].map(item => (
-                <Link key={item.slug} className="cursor-pointer" href={`/profile/${item.slug}`}>
-                  <div>
-                    <div className="h-0 pb-[100%] relative">
-                      <Image
-                        className="mx-auto object-cover w-full h-full absolute top-0 bottom-0 left-0 right-0 rounded-full artist-img shadow-xl"
-                        src={item.image_url}
-                        alt={item.name_en}
-                        width={600}
-                        height={400}
-                      />
-                    </div>
-                    <div className="pt-3">
-                      <p className="text-sm text-center"><b>{item.name_en}</b></p>
-                    </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
+            <ArtistItem artists={filteredData} />
           </div>
-        ))}
+        ) : (
+          Object.keys(groupedData).map(firstCharEn => (
+            <div key={firstCharEn} className="w-full">
+              <div className="pt-5 pl-5">
+                <div className="flex items-end space-x-2">
+                  <h3 className="text-3xl">{firstCharEn}</h3>
+                  {selectedArtist !== "" && (
+                    <div className="flex space-x-2">
+                      <span>|</span>
+                      <p className="text-sm">
+                        {groupedData[firstCharEn].length} artists of {data.length}
+                      </p>
+                    </div>
+                  )}
+                </div>
+              </div>
+              <ArtistItem artists={groupedData[firstCharEn]} />
+            </div>
+          ))
+        )}
       </div>
     </div>
   )
